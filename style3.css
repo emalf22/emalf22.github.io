@@ -5,13 +5,13 @@ h1 {
     color:#ee1c47;
 }
 h2 {
-    color: #fdfdfd ;
+    color: #110ae0 ;
 }
 h3 {
-    color:#0000ff;
+    color:#8dff7c;
 }
 p {
-    color: #fcec08;
+    color: #fff129;
 }
 body { 
     background: #31ccf8;
@@ -20,5 +20,8 @@ img {
     width: 400px;
 }
 * {
-    width: 1000px;
+    width: 500px;
+}
+p {
+    width:1000px ;
 }
