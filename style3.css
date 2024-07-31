@@ -1,0 +1,24 @@
+* {
+    font-family: "Oswald", sans-serif;
+}
+h1 {
+    color:#ee1c47;
+}
+h2 {
+    color: #fdfdfd ;
+}
+h3 {
+    color:#0000ff;
+}
+p {
+    color: #fcec08;
+}
+body { 
+    background: #31ccf8;
+}
+img {
+    width: 400px;
+}
+* {
+    width: 1000px;
+}
